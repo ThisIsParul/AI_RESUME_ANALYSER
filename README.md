@@ -18,7 +18,6 @@ AI Resume Analyzer is a Streamlit-based web application that leverages Natural L
 
 - [Streamlit](https://streamlit.io/) - Web Interface
 - [PyResparser](https://github.com/bhaviksingh2001/pyresparser) - Resume Parsing
-- [Plotly](https://plotly.com/) - Data Visualization
 - [Pandas, NLTK, Geopy, PDFMiner] - Backend processing
 
 ## 📁 Project Structure
